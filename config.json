@@ -1,0 +1,1 @@
+{"xcols": ["Gender", "Ever_Married", "Age", "Graduated", "Profession", "Work_Experience", "Spending_Score", "Family_Size", "Var_1"], "ycol": ["Segmentation"], "cat_cols": ["Gender", "Ever_Married", "Graduated", "Profession", "Spending_Score", "Var_1"]}
